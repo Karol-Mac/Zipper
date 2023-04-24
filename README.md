@@ -1,2 +1,2 @@
 # Zipper
-Aplikacja tworząca archiwum wybranych plików
+Aplikacja tworząca archiwum wybranych plików, lub folderów
